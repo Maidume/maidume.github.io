@@ -1,0 +1,22 @@
+h1 {
+ background-color: yellow;
+ border-style: double;
+ color: green;
+ margin-left: 30px; 
+}
+
+.eripealkiri {
+  color: #666;
+  font-family: Arial,Helvetica;
+}
+
+h2 {
+	
+border-bottom-style: dotted;
+border-bottom-color: blue;
+}
+
+body {
+	background-image: url("https://assets.adidas.com/images/h_600,f_auto,q_auto:sensitive,fl_lossy/9a1ba9ec74724192b3dfa80f009c325f_9366/Ultraboost_Shoes_White_BB6168_01_standard.jpg");
+}
+
